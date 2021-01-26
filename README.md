@@ -1,4 +1,6 @@
 ### Hi there 👋
+![btc](https://img.shields.io/keybase/btc/tavakoli)
+[![pgp](https://img.shields.io/keybase/pgp/tavakoli)](https://keybase.io/tavakoli/pgp_keys.asc)
 
 <!--
 **tavrez/tavrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
