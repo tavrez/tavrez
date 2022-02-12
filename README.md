@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![btc](https://img.shields.io/keybase/btc/tavakoli)](https://www.blockchain.com/btc/payment_request?address=bc1q0vyd6vgjs7yag4c09v0malxmx7hvkdae44vq5x&amount=0.0001)
+[![btc](https://img.shields.io/keybase/btc/tavakoli)](bitcoin:bc1q2a3lnhulw6aez7w4846nnqvmge4fwz588jesuh?amount=0.0001&message=Donation&time=1644687266)
 [![pgp](https://img.shields.io/keybase/pgp/tavakoli)](https://keybase.io/tavakoli/pgp_keys.asc)
 
 <!--
